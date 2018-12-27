@@ -1,7 +1,8 @@
 # mvvm_project_1
 
 ##first project with MVVM design pattern
-BY using MVVM approach to develop apps, the view observes the ViewModel, and the Model exposese data to the ViewModel through Observables.
+</br>
+By using MVVM approach to develop apps, the view observes the ViewModel, and the Model exposese data to the ViewModel through Observables.
 </br>
 <img src= "https://github.com/HoJinKind/mvvm_project_1/blob/master/img/android-mvvm-pattern.png?raw=true"/>
 
